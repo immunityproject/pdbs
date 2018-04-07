@@ -1,2 +1,2 @@
 # pdbs
-Protein databases collected from various sources for analysis
+Protein databases collected from RCSB.org and repaired for analysis

@@ -1,4 +1,4 @@
-**HPV PDB**
+# HPV PDB
 
 **4GIZ**  
 Crystal structure of full-length human papillomavirus oncoprotein E6 in complex with LXXLL peptide of ubiquitin ligase E6AP at 2.55 A resolution  
